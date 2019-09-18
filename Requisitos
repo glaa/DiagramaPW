@@ -1,0 +1,8 @@
+Ações do cliente:
+  - Pesquisar estabelecimentos por cidade
+  - Pesquisar estabelecimentos por categoria
+  - Agendar um serviço:
+    - Escolher categoria
+    - Escolher um serviço
+    - Escolher um profissional
+    - Escolher um horário
