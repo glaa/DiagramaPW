@@ -6,3 +6,17 @@ Ações do cliente:
     - Escolher um serviço
     - Escolher um profissional
     - Escolher um horário
+
+Ações do estabelecimento:
+  - Cadastrar: 
+    - produtos
+    - clientes
+    - serviços
+    - profissionais
+  - Consultar:
+    - produtos em estoque
+    - produtos vendidos por data
+    - agenda do estabelecimento
+    - agenda do profissional
+  
+  
